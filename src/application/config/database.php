@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'ultra_film',
+	'hostname' => 'sql211.unaux.com',
+	'username' => 'unaux_31890947',
+	'password' => '7mfb9dgpfhj',
+	'database' => 'unaux_31890947_flim',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
